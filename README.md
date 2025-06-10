@@ -12,6 +12,7 @@
 * Indexing Sharding
 
 ## Technical Outline
+
 * API to retrive and store data into couchbase
 * Interact with Kafka to pull the data
 * Various layers of the application
